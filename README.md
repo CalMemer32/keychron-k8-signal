@@ -19,7 +19,7 @@ To anyone with a very similar keyboard to mine, i hope this will help you if you
 Gateron Hot-swappable  
 RGB Backlight  
 No Knob  
-Sonix SN32F248B
+Sonix SN32F248B  
 Likely from around 2023
 <br>
 <br>
