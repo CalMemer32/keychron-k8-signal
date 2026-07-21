@@ -20,12 +20,14 @@ https://msys.qmk.fm/
 keyboards/keychron/k8/rgb/ansi/
 Create a file called "rules.mk" with these inside:
 
+```makefile
 USE_PROCESS_STACKSIZE = 0x500
 USE_EXCEPTIONS_STACKSIZE = 0x200
 RAW_ENABLE = yes
 LTO_ENABLE = yes
 RGB_MATRIX_ENABLE = yes
 SIGNALRGB_SUPPORT_ENABLE = yes
+```
 
 Save & Exit
 
