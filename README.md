@@ -37,8 +37,26 @@ Save & Exit
 8. qmk compile -kb keychron/k8/rgb/ansi -km default
 
 Firmware will be found at SonixQMK Root
+<br>
+
+# **Flashing**
+
+Download the SONiX Flasher from SignalRGB:
+https://docs.signalrgb.com/developer/qmk/sonix-flasher/
+<br>
+
+<img width="656" height="526" alt="K8 Settings" src="https://github.com/user-attachments/assets/f42455ec-a309-466e-a9fe-40c74201e796" />
 
 <br>
+<br>
+
+Match my exact device and offset settings in the image above.  
+
+Select "Reboot to Bootloader [HFD]" to put the keyboard into bootloader mode through software (Optional hardware method below)  
+
+Once Device and Offset are set correctly and keyboard is in bootloader mode, select "Flash QMK.." and select the firmware file to flash.  
+
+**Note:** A Jumploader is not needed
 
 # **Revert Back to Stock:**
 Download the correct firmware for your keyboard here:
