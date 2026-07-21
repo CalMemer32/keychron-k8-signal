@@ -113,9 +113,9 @@ Note: There are 5 pins on the left of the spacebar switch, BOOT and P7 are the t
 Download the correct firmware for your keyboard here:
 https://www.keychron.com/pages/firmware-for-keychron-k8
 
-For Example, i have "Gateron Hot-swappable K8 RGB Backlight Version (v1.0.7).exe"  
+For Example, i have ["Gateron Hot-swappable K8 RGB Backlight Version (v1.0.7).exe"](https://cdn.shopify.com/s/files/1/0059/0630/1017/files/K8-A2-87K-RGB-V1.07.exe?v=1642821187)  
 
-Manually put the keyboard into bootloader mode and run the installer, your keyboard will quickly be reverted back to stock
+[Manually put the keyboard into bootloader mode](https://github.com/CalMemer32/keychron-k8-signal#manually-enter-bootloader-mode) and run the installer, your keyboard will quickly be reverted back to stock
 
 <br>
 <br>
