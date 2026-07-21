@@ -33,7 +33,13 @@ https://gitlab.com/signalrgb/signal-plugins/-/blob/master/Plugins/QMK/Keychron/K
 <br>
 <br>
 
+
+
 # **Build on Windows:**
+
+**Disclaimer:** The build steps below are the result of experimentation on my own keyboard. It may not be the only or best way to build SignalRGB compatible firmware for this model. If you find improvements or corrections that would work better, please feel free to use those instead but i cannot vouch for the functionality of those changes.
+
+<br>
 
 Download the latest version of QMK MSYS from here
 https://msys.qmk.fm/
