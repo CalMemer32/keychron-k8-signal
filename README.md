@@ -1,4 +1,4 @@
-# Pre-Built SignalRGB Firmware for Keychron K8 (K8J3)
+# Pre-Built SignalRGB Compatible Firmware for Keychron K8 (K8J3)
 
 **Why did i do this?**  
 I followed the official SignalRGB guide but all the pre-compiled firmware files for the K8 did not work properly with my exact model.  
