@@ -1,3 +1,14 @@
+**Note: This guide worked for my exact keyboard spec below and might work on yours too if its similar.  
+Bricking risk is low but never zero, proceed at your own risk**
+<br>
+
+**Model:** Keychron K8 Wireless Mechanical Keyboard (K8J3)   
+**Layout:** ANSI  
+Gateron Hot-swappable  
+RGB Backlight  
+No Knob  
+Sonix SN32F248B
+
 # **Build on Windows:**
 
 Download the latest version of QMK MSYS from here
@@ -52,18 +63,25 @@ https://docs.signalrgb.com/developer/qmk/sonix-flasher/
 
 Match my exact device and offset settings in the image above.  
 
-Select "Reboot to Bootloader [HFD]" to put the keyboard into bootloader mode through software (Optional hardware method below)  
+Select "Reboot to Bootloader [HFD]" to put the keyboard into bootloader mode through software **(optional hardware method below)**
 
 Once Device and Offset are set correctly and keyboard is in bootloader mode, select "Flash QMK.." and select the firmware file to flash.  
 
 **Note:** A Jumploader is not needed
 
+
+# **Manually Enter Bootloader Mode:**
+Remove the spacebar and short the BOOT pin to P7 pin  
+Note: There are 5 pins on the left of the spacebar switch, BOOT and P7 are the two rightmost pins
+
+
 # **Revert Back to Stock:**
 Download the correct firmware for your keyboard here:
 https://www.keychron.com/pages/firmware-for-keychron-k8
 
-For Example, i have "Gateron Hot-swappable K8 RGB Backlight Version (v1.0.7).exe"
-Put the keyboard into bootloader mode and run the installer, your keyboard will quickly be reverted back to stock
+For Example, i have "Gateron Hot-swappable K8 RGB Backlight Version (v1.0.7).exe"  
+
+Manually put the keyboard into bootloader mode and run the installer, your keyboard will quickly be reverted back to stock
 
 <br>
 <br>
