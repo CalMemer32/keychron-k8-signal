@@ -1,8 +1,8 @@
 # Pre-Built SignalRGB Firmware for Keychron K8 (K8J3)
 
 **Why did i do this?**  
-I followed the original SignalRGB guide but all the pre-compiled firmware for the K8 did not work properly with my exact model.  
-The key map was all wrong and the RGB was completely off too.  
+I followed the official SignalRGB guide but all the pre-compiled firmware files for the K8 did not work properly with my exact model.  
+The keymaps were all wrong and the RGB was completely off too.  
 To anyone with a very similar keyboard to mine, i hope this will help you if you are also experiencing troubles getting SignalRGB support on this keyboard like i was.
 
 <br>
