@@ -90,6 +90,7 @@ Firmware will be found at SonixQMK Root
 
 Download the SONiX Flasher from SignalRGB:
 https://docs.signalrgb.com/developer/qmk/sonix-flasher/
+
 <br>
 
 <img width="656" height="526" alt="K8 Settings" src="https://github.com/user-attachments/assets/f42455ec-a309-466e-a9fe-40c74201e796" />
