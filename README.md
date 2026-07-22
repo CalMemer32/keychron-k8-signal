@@ -106,13 +106,10 @@ Once Device and Offset are set correctly and keyboard is in bootloader mode, sel
 <br>
 
 # **Manually Enter Bootloader Mode:**  
-Unplug keyboard  
-
-Remove the spacebar and short the BOOT pin to P7 pin  
+1. Unplug keyboard  
+2. Remove the spacebar and short the BOOT pin to P7 pin  
 Note: There are 5 pins on the left of the spacebar switch, BOOT and P7 are the two rightmost pins  
-
-Plug keyboard back in while pins are shorted (i used a small dupont wire)  
-Ensure you remove the short after the keyboard is plugged back in
+4. Plug keyboard back in while pins are shorted (i used a small dupont wire)  
 <br>
 <br>
 
